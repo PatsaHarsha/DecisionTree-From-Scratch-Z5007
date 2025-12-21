@@ -1,0 +1,4 @@
+Predictions shape: (498,)
+Any NaNs: False
+First 5 predictions: [209.03   219.7875 254.13   134.475  144.28  ]
+Min/Max: 4.19 254.13
